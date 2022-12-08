@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_layout_feature_technologies",
+  "info": {
+    "displayName": "featureTechnology",
+    "icon": "archive"
+  },
+  "options": {},
+  "attributes": {
+    "technology": {
+      "type": "string"
+    },
+    "projects": {
+      "type": "integer"
+    }
+  }
+}

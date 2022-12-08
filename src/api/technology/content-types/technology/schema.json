@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "technologies",
+  "info": {
+    "singularName": "technology",
+    "pluralName": "technologies",
+    "displayName": "Technology",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "technologies": {
+      "type": "component",
+      "repeatable": true,
+      "component": "layout.feature-technology"
+    },
+    "des_one": {
+      "type": "richtext"
+    },
+    "des_two": {
+      "type": "richtext"
+    },
+    "des_three": {
+      "type": "richtext"
+    }
+  }
+}

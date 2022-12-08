@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "recent_projects",
+  "info": {
+    "singularName": "recent-project",
+    "pluralName": "recent-projects",
+    "displayName": "RecentProject"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "projects": {
+      "type": "component",
+      "repeatable": true,
+      "component": "layout.feature-recent-project"
+    }
+  }
+}

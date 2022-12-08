@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_layout_requirements",
+  "info": {
+    "displayName": "requirement",
+    "icon": "atom"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

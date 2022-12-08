@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_layout_feature_recent_projects",
+  "info": {
+    "displayName": "featureRecentProject",
+    "icon": "arrow-alt-circle-down"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "des": {
+      "type": "richtext"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

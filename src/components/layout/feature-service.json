@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_layout_feature_services",
+  "info": {
+    "displayName": "featureService",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "des": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

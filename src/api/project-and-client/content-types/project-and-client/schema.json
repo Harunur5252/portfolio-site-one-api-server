@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "project_and_clients",
+  "info": {
+    "singularName": "project-and-client",
+    "pluralName": "project-and-clients",
+    "displayName": "Project and Client",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "total_projects": {
+      "type": "integer"
+    },
+    "total_clients": {
+      "type": "integer"
+    },
+    "requirements": {
+      "type": "component",
+      "repeatable": true,
+      "component": "layout.requirement"
+    }
+  }
+}
