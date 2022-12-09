@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_layout_feature_reviews",
+  "info": {
+    "displayName": "featureReview",
+    "icon": "angry"
+  },
+  "options": {},
+  "attributes": {
+    "categoryName": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    },
+    "short_des": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_layout_feature_courses",
+  "info": {
+    "displayName": "featureCourse",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "broad_des": {
+      "type": "richtext"
+    },
+    "video_link": {
+      "type": "string"
+    },
+    "short_des": {
+      "type": "richtext"
+    },
+    "total_lecture": {
+      "type": "integer"
+    },
+    "total_student": {
+      "type": "integer"
+    }
+  }
+}

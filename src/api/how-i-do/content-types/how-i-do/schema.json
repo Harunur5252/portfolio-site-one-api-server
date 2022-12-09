@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "how_i_dos",
+  "info": {
+    "singularName": "how-i-do",
+    "pluralName": "how-i-dos",
+    "displayName": "howIDo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "des": {
+      "type": "richtext"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}
