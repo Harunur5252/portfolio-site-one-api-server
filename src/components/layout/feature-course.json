@@ -26,6 +26,9 @@
     },
     "total_student": {
       "type": "integer"
+    },
+    "about_technology": {
+      "type": "richtext"
     }
   }
 }

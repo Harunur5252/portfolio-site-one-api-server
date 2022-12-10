@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "refands",
+  "info": {
+    "singularName": "refand",
+    "pluralName": "refands",
+    "displayName": "Refand"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "refandPolicy": {
+      "type": "richtext"
+    }
+  }
+}
